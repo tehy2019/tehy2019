@@ -78,7 +78,7 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
-    "gdpr": ""
+    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
   },
   "pages": {
     "index.html": {
@@ -767,7 +767,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/jedno-kolo-1446x965.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -802,8 +802,8 @@
                 "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/zkclony-1440x900.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/zkclony-1440x900.jpg",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -817,7 +817,7 @@
                 "contentAlign": "left",
                 "text": "Prestige Universum is a colorfull place where you can find the most talented&nbsp;performers,<br>acrobats, dancers, musicians and other artists working all together on breathtaking acts...&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html#content5-2c\" data-toolbar=\"-mbrBtnMove\">ACROBATIC SHOW</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">THEMATIC SHOW</a>",
-                "overlayOpacity": "0.2"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/provat-2-1440x960.jpg",
@@ -1672,7 +1672,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/burleska-action-960x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/burleska-action-959x779.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -1690,8 +1690,8 @@
                 "overlayOpacity": "0.3"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/young-girl-1451x965.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/young-girl-1449x897.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1708,8 +1708,8 @@
                 "overlayOpacity": "0.3"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/all-2-1448x965.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/all-2-1446x808.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1850,7 +1850,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -1870,13 +1870,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dva-mimovz-740x740.png",
-                "thumb": "@PROJECT_PATH@/assets/images/dva-mimovz-740x740-680x680.png",
+                "image": "@PROJECT_PATH@/assets/images/dva-mimovz-680x680.png",
+                "thumb": "@PROJECT_PATH@/assets/images/dva-mimovz-680x680-680x680.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
