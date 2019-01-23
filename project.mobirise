@@ -1811,7 +1811,7 @@
                 "title": "<b>Modern&nbsp;</b><i>Show</i>",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "The mixture of music, dance and comedy acts guarantee your entertainment, while watching our modern show.",
+                "text": "The mixture of music, dance and comedy acts guarantee your entertainment, while watching our modern, contemporary show.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.3"
               }
@@ -1940,15 +1940,15 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/talent-1-1090x697.png",
-                "thumb": "@PROJECT_PATH@/assets/images/talent-1-1090x697-692x692.png",
+                "image": "@PROJECT_PATH@/assets/images/n4c43-directors2-460x460.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/n4c43-directors2-460x460-460x460.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1960,21 +1960,21 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/lillie-1-2000x3000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lillie-1-2000x3000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/n4c43-directors-460x460.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/n4c43-directors-460x460-460x460.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/na-kole-812x563.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/na-kole-812x563-562x562.jpg",
+                "image": "@PROJECT_PATH@/assets/images/prestige-photos33-460x460.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/prestige-photos33-460x460-460x460.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
