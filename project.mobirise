@@ -817,7 +817,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Prestige Universum is a colorfull place where you can find the most talented&nbsp;performers,<br>acrobats, dancers, musicians and other artists working all together on breathtaking acts...&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html#content5-2y\" data-toolbar=\"-mbrBtnMove\">ACROBATIC SHOW</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"index.html#slider1-2f\" data-toolbar=\"-mbrBtnMove\">THEMATIC SHOW</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html#content5-2y\" data-toolbar=\"-mbrBtnMove\">DIRECTOR’S PICKS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"index.html#slider1-2f\" data-toolbar=\"-mbrBtnMove\">THEMATIC SHOW</a>",
                 "overlayOpacity": "0.4"
               },
               {
